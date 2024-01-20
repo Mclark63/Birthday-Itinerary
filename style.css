@@ -13,8 +13,14 @@ body {margin: 150px; padding: 50px;}
     }
   }
 
-  @media only screen and (max-width: 768px) { 
-      .row{
-    display: flex;
-    flex-direction: column-reverse;
-  } }
+  .row{
+    text-align: center;
+    padding-top: 50px;
+
+  }
+
+  .video{
+    padding-bottom:50px;
+  }
+
+ 
